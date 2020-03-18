@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;	
+}
+
+div#header{
+	margin: 0 450px;
+}
+div#header h1{
+	font-family: "aa";
+	font-size: 45px;
+	padding-top:50px;
+}
+div#header img{
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+#navbar{
+	height:60px;
+	background-color: #d0881f;
+}
+.nav_ul{
+	padding-left: 50px;
+}
+#navbar .nav_ul li{
+	
+	list-style: none;
+	float: left;
+}
+#navbar .nav_ul li a{
+	color: #323369;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: "bb";
+}
+#navbar .nav_ul li a:hover, .active{
+	background-color: #bfb875;
+}
+div#slider img{
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+}
+div.quote{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	top: 50%;
+	left: 60%;
+	padding: 30px;
+	font-family: Myanmar3, Yunghkio
+}
+.title{
+	font-family: "aa";
+	text-align: center;
+	position: relative;
+	width: 500px;
+	border-bottom: 1px solid grey;
+	top: 50px;
+	left: 400px;
+	padding-bottom: 50px;
+
+}
+div.center{
+	position: relative;
+	text-align: center;
+	width: 450px;
+	left: 400px;
+	margin-bottom: 50px;
+}
+.icon li{
+	width: 100px;
+	float: left;
+	padding-left: 250px;
+	text-align: center;
+	list-style: none;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+h4{
+	text-align: center;
+	padding: 20px;
+}
+h3{
+	padding: 20px;
+	font-family: "aa";
+}
+p{
+	text-align: center;
+}
+div#ourshop{
+	padding-left: 100px;
+}
+div#ourshop img{
+	width: 170px;
+	height: 250px;
+	object-fit: center;
+	float: left;
+}
+div.choose {
+	position: relative;
+	margin-right: 200px;
+	left: 50px;
+}
+div.Coffee{
+	width: 500px; 
+	height: 350px;
+	padding-left: 100px;
+	float: left;
+}
+div#icecream img{
+	position: relative;
+	left: 50px;
+	width: 492px;
+	height: 170px;
+}
+div#footer{
+	background-color:#d0881f;
+	height: 30px; 
+	
+}
+
